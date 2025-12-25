@@ -18,11 +18,22 @@ I’m always open to learning opportunities, collaborations, and internships.
 * I value consistency more than speed  
 * **Hobbies:** technology, storytelling, and creative projects
 
-<p align="center"> 
-<img width="50%" src="https://streak-stats.vercel.app/?user=noemisoares&theme=github-dark-blue" />
-  <img align="left" alt="Blastoise" width="300px" height="300px" src="blastoise.gif"/>
-</p>
+<img
+  src="blastoise.gif"
+  width="300"
+  align="left"
+/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,react,html,css,javascript,c,cpp,django,nextjs&theme=dark" />
-</p>
+<div align="center">
+  <img
+    src="https://streak-stats.vercel.app/?user=noemisoares&theme=github-dark-blue"
+    width="480"
+  />
+  <br/><br/>
+  <img
+    src="https://skillicons.dev/icons?i=python,java,react,html,css,javascript,c,cpp,django,nextjs&theme=dark"
+  />
+</div>
+
+<br clear="left"/>
+
