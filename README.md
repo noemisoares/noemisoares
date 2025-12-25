@@ -20,14 +20,14 @@ I’m always open to learning opportunities, collaborations, and internships.
 
 <img
   src="blastoise.gif"
-  width="300"
+  width="260"
   align="left"
 />
 
 <div align="center">
   <img
     src="https://streak-stats.vercel.app/?user=noemisoares&theme=github-dark-blue"
-    width="480"
+    width="460"
   />
   <br/><br/>
   <img
