@@ -1,6 +1,6 @@
 ### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I’m [**No**](https://noemi-portfolio-ten.vercel.app), a computer scientist.
+I’m [**No**](https://portfolio-noemi.vercel.app/), a computer scientist.
 
 I'm focused on learning how everything works in practice, creating projects and solving real-world problems.
 
